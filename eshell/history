@@ -1,0 +1,36 @@
+ls
+cd Programming/
+ls
+cd SML/
+ls
+sml sample.sml 
+sml sample
+env
+clear
+ls
+sml sample.sml 
+env
+env
+env
+echo $PATH
+ls
+cd 
+ls -a
+cat .bashrc
+cat .bash_profile 
+echo $PATH
+ls
+perl tmp.p;
+perl tmp.pl
+ls
+python Tmp.pyc
+./Tmp.pyc
+echo $PATH
+cd ~
+ls -a
+cat .emacs
+echo $PATh
+echo $PATH
+echo $PATH
+echo $PATH
+echo $PATH
